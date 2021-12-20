@@ -1,0 +1,12 @@
+{
+  "selectedFractal": "Koch",
+  "selectedKochType": "Minkowski island",
+  "iterations": 3,
+  "koch_length": 297.5,
+  "koch_stroke_weight": 1,
+  "color": "#ff1fad",
+  "currentGraphicsX": 3041.28,
+  "currentGraphicsY": 1492.92,
+  "originalRatio": 2.037135278514589,
+  "multiplyFactor": 2
+}

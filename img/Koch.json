@@ -1,0 +1,12 @@
+{
+  "selectedFractal": "Koch",
+  "selectedKochType": "Antisnowflake",
+  "iterations": 5,
+  "koch_length": 391.5,
+  "koch_stroke_weight": 1,
+  "color": "#1fff8b",
+  "currentGraphicsX": 3041.28,
+  "currentGraphicsY": 1492.92,
+  "originalRatio": 2.037135278514589,
+  "multiplyFactor": 2
+}
